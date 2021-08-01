@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @freddaoism
+- 👋 Hi, I’m @freddaoism (PM of The Pandemic Trail)
 - 👀 I’m interested in free diving, swimming, travelling, and playing the keys 
 - 🌱 I’m currently learning HTML, CSS, Javascript, SQL, and Java
 - 💞️ I’m looking to collaborate on any project that will help me learn HTML, SQL, CSS, Javascript, or Java
